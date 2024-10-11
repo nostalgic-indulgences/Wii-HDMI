@@ -3,6 +3,7 @@
 >*There will be issues with the QSB fabrication at JLCPCB due to the distance between the holes of the VIAs.\
 >I have modified the VIAs to be 0.15mm instead to mitigate such issues.\
 >Please use the modified gerbers within the QSB folder for fuss-free production.\
+>You will still face issues with JLCPCB if you did not select the "Castellated Holes" option but there's no need to pay for such a premium since the VIAs would be hand-soldered during installation anyway.\
 > ...Nostalgic Indulgences*
 
 Wii HDMI is a variant of the Shuriken V3 GCVIDEO project aimed for installation in Wii consoles. Its form factor is inspired by the now out of production Wii Dual, which was another GCVideo project for the Wii designed by Dan Kunz(citrus3000psi) which had dual output capability providing HDMI and analog output options. 
